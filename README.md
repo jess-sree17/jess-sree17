@@ -38,7 +38,7 @@ I regularly update this repo as I take on new challenges and explore advanced co
 
 - 📧 **Email:** sreesankar1701@gmail.com  
 - 🌐 **GitHub:** [https://github.com/sreesankar](https://github.com/sreesankar)  
-- 💼 **LinkedIn:** [Your LinkedIn URL]
+- 💼 **LinkedIn:** No linkedIn 🤠
 
 ---
 
