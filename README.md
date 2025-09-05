@@ -1,39 +1,55 @@
-🚀 My Evolving GitHub Portfolio
-Hi there! I'm Sreesankar, a first-year BCA student. This repository is a chronicle of my journey into advanced software development. After building a strong foundation, I'm now diving deeper into the world of mobile app development, machine learning,  database management and system designing.
+# 🚀 My Evolving GitHub Portfolio
 
-🧠 Current Focus & Learning
-✅ Flutter & Dart – Gaining hands-on experience in cross-platform mobile app development.
+Hi there! I'm **Sreesankar**, a first-year BCA student. This repository is a chronicle of my journey into advanced software development. After building a strong foundation, I'm now diving deeper into the world of **mobile app development, machine learning, database management, and system design**.
 
-✅ Vector LLM Models – Exploring the creation and fine-tuning of my own language models.
+---
 
-✅ RAG (Retrieval-Augmented Generation) – Learning to improve LLM accuracy by integrating external data.
+## 🧠 Current Focus & Learning
 
-✅ PostgreSQL – Mastering database management for modern applications.
+- ✅ **Flutter & Dart** – Building cross-platform mobile apps with hands-on projects.  
+- ✅ **Vector LLM Models** – Learning to create and fine-tune my own language models.  
+- ✅ **RAG (Retrieval-Augmented Generation)** – Enhancing LLM accuracy with external data.  
+- ✅ **PostgreSQL** – Mastering relational database management for modern apps.  
+- ✅ **Python** – Applying ML and back-end development skills.
 
-✅ Python – Applying my knowledge to machine learning and back-end development.
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 <p align="center">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" title="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" />
 </p>
 
-📁 Project Structure
-🎯 Purpose of This Repository
-This is a collection of my evolving skills and projects. Through practical applications and scripts, I'm:
+---
 
-Building real-world mobile and web applications with Flutter and PostgreSQL.
+## 📁 Project Structure
 
-Experimenting with AI/ML concepts by building my own vector LLM models.
+This repository documents my skills and projects through practical applications and scripts. I am:
 
-Documenting my progress in learning how to fine-tune and use RAG for more powerful AI solutions.
+- Building **real-world mobile and web applications** using Flutter and PostgreSQL.  
+- Experimenting with **AI/ML concepts** by creating vector LLM models.  
+- Learning to **fine-tune and integrate RAG** for powerful AI solutions.  
+- Practicing **version control** with Git and GitHub.
 
-Continuing to practice version control with Git and GitHub.
+---
 
-🌱 Learning in Progress
-I'll be updating this repo regularly as I take on new challenges and learn more complex concepts. Feedback and suggestions are always welcome!
+## 🌱 Learning in Progress
 
-📫 Let's Connect
-📧 sreesankar1701@gmail.com
+I regularly update this repo as I take on new challenges and explore advanced concepts. Feedback and suggestions are always welcome!  
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** sreesankar1701@gmail.com  
+- 🌐 **GitHub:** [https://github.com/sreesankar](https://github.com/sreesankar)  
+- 💼 **LinkedIn:** [Your LinkedIn URL]
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sreesankar&color=blue" alt="Profile views" />
+</p>
