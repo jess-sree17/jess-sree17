@@ -13,7 +13,6 @@ Hi there! I'm **Sreesankar**, a first-year BCA student. This repository is a chr
 - ✅ **Python** – Applying ML and back-end development skills.
 
 ---
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -21,9 +20,16 @@ Hi there! I'm **Sreesankar**, a first-year BCA student. This repository is a chr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" title="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" />
+  <img src="https://seeklogo.com/images/S/supabase-logo-0E8AFAF90E-seeklogo.com.png" width="50" height="50" title="Supabase" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" title="Firebase" />
+  <img src="https://raw.githubusercontent.com/Trafilatura/trafilatura/main/docs/logo.png" width="50" height="50" title="Trafilatura" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" height="50" title="Sentence Transformer" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Ollama_logo.svg" width="50" height="50" title="Ollama" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Gemini_logo.svg" width="50" height="50" title="Gemini" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="50" height="50" title="OpenAI" />
 </p>
 
----
+
 
 ## 📁 Project Structure
 
