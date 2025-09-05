@@ -1,4 +1,4 @@
-# 🚀 My Evolving GitHub Portfolio
+# GitHub 🚀🚀
 
 Hi there! I'm **Sreesankar**, a second-year Computer science student. This repository is a chronicle of my journey into advanced software development. After building a strong foundation, I'm now diving deeper into the world of **mobile app development, machine learning, database management, and system design**.
 
