@@ -28,9 +28,6 @@ This repository documents my skills and projects through practical applications 
 
 ---
 
-## 🌱 Learning in Progress
-
-I regularly update this repo as I take on new challenges and explore advanced concepts. Feedback and suggestions are always welcome!  
 
 ---
 
