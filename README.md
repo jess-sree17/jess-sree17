@@ -17,7 +17,7 @@ Hi there! I'm **Sreesankar**, a second-year Computer science student. This repos
 
 ---
 🛠️ Tech Stack
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" title="Flutter" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" title="Dart" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" /> <img src="https://seeklogo.com/images/S/supabase-/> src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" height="50" title="Sentence Transformer" /> <img 
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" title="Flutter" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" title="Dart" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" /> <img src="https://seeklogo.com/images/S/supabase-/> 
 
 
 
