@@ -10,7 +10,7 @@ Hi there! I'm **Sreesankar**, a second-year Computer science student. This repos
 - ✅ **Vector LLM Models** – Learning to create and fine-tune my own language models.  
 - ✅ **RAG (Retrieval-Augmented Generation)** – Enhancing LLM accuracy with external data.  
 - ✅ **PostgreSQL** – Mastering relational database management for modern apps.  
-- ✅ **Python** – Applying ML and back-end development skills.
+
 
 ---
 🛠️ Tech Stack
@@ -22,7 +22,6 @@ Hi there! I'm **Sreesankar**, a second-year Computer science student. This repos
 This repository documents my skills and projects through practical applications and scripts. I am:
 
 - Building **real-world mobile and web applications** using Flutter and PostgreSQL.  
-- Experimenting with **AI/ML concepts** by creating vector LLM models.  
 - Learning to **fine-tune and integrate RAG** for powerful AI solutions.  
 - Practicing **version control** with Git and GitHub.
 
@@ -35,7 +34,7 @@ This repository documents my skills and projects through practical applications 
 
 - 📧 **Email:** sreesankar1701@gmail.com  
 - 🌐 **GitHub:** [https://github.com/sreesankar](https://github.com/sreesankar)  
-- 💼 **LinkedIn:** No linkedIn 🤠
+
 
 ---
 
