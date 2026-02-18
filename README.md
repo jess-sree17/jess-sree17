@@ -39,7 +39,7 @@ This repository documents my learning journey through **real-world projects and 
 ## 📫 Connect With Me
 
 - 📧 Email: **sreesankar1701@gmail.com**  
-- 🌐 GitHub: **[@sreesankar](https://github.com/sreesankar)**  
+- 🌐 GitHub: **[@sreesankar](https://github.com/jess-sree17)**  
 
 ---
 
