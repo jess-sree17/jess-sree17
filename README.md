@@ -43,6 +43,4 @@ This repository documents my learning journey through **real-world projects and 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreesankar&color=blue" alt="Profile views" />
-</p>
+
