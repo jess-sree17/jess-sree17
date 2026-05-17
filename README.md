@@ -24,7 +24,7 @@
 
 ```txt
 ╭─ who am i ──────────────────────────────────────────────────────────╮
-│                                                                    │
+│                                                                     │
 │  🚀  Full Stack Developer focused on scalable real-world systems  │
 │  🏆  IQAC-selected product — currently in active development      │
 │  🧠  Exploring RAG, vector databases & LLM workflow architecture  │
