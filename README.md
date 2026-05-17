@@ -1,37 +1,116 @@
-# 🚀 GitHub Portfolio
+<div align="center">
 
-Hi there! I'm **Sreesankar**, a second-year **Computer Science** student.  
-This repository is a chronicle of my journey into advanced software development. After building a strong foundation, I’m now diving deeper into **mobile app development, machine learning, database management, and system design**.
+# Sreesankar
 
----
+### Full Stack Developer • System Design Enthusiast • AI/RAG Explorer
 
-## 🧠 Current Focus & Learning
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Flutter+%7C+PostgreSQL+%7C+Backend+Systems;Exploring+RAG+and+LLM+Workflows;Designing+Real-World+Software+Systems" />
+</p>
 
-- ✅ **Flutter & Dart** – Building cross-platform mobile apps through hands-on projects  
-- ✅ **Vector LLM Models** – Learning to create and fine-tune my own language models  
-- ✅ **RAG (Retrieval-Augmented Generation)** – Enhancing LLM accuracy with external data  
-- ✅ **PostgreSQL** – Mastering relational database management for modern applications  
+</div>
 
 ---
 
+## About Me
 
+I'm a developer focused on building scalable real-world applications while continuously exploring modern backend systems, AI integrations, and software architecture.
 
-## 📁 Project Direction
+Currently working on a product selected after pitching in front of the **IQAC (Internal Quality Assurance Cell )**.
 
-This repository documents my learning journey through **real-world projects and experiments**:
-
-- 📱 Building mobile and web apps using **Flutter + PostgreSQL**  
-- 🤖 Learning to **fine-tune LLMs and integrate RAG pipelines**  
-- 🧩 Applying **system design principles** to scalable applications  
-- 🔄 Practicing **Git & GitHub workflows**  
+I enjoy designing systems from the ground up — from database architecture and APIs to frontend workflows and deployment pipelines.
 
 ---
 
-## 📫 Connect With Me
+## Tech Stack
 
-- 📧 Email: **sreesankar1701@gmail.com**  
-- 🌐 GitHub: **[@sreesankar](https://github.com/jess-sree17)**  
+### Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,go,postgres,docker,graphql,aws,git,github,linux" />
+</p>
 
 ---
 
+### Backend & System Skills
 
+- REST API Development  
+- GraphQL APIs  
+- WebSocket Communication  
+- Serverless Functions with Deno  
+- PostgreSQL Extensions & Database Optimization  
+- Amazon S3 Storage Configuration  
+- Authentication Workflows with GoTrue  
+- Full Stack Application Architecture  
+- System Design & Database Design  
+- Strong Object-Oriented Programming Foundation  
+
+---
+
+### AI & Learning Focus
+
+- Retrieval-Augmented Generation (RAG)  
+- Vector-based LLM Systems  
+- LLM Workflow Architecture  
+- AI-integrated Application Design  
+
+---
+
+## Current Focus
+
+```txt
+→ Building scalable full stack applications
+→ Designing efficient backend architectures
+→ Learning advanced AI + RAG workflows
+→ Improving system design & distributed systems knowledge
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jess-sree17&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-sree17&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-sree17&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## Achievement
+
+🏆 Pitched a product in front of the **IQAC (Internal Quality Assurance Cell )** and successfully got the project selected for development.
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="mailto:sreesankar1701@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/jess-sree17">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Building systems, not just projects.
+
+</div>
