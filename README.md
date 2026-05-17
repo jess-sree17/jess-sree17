@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 ```txt
-╭─ whoami ──────────────────────────────────────────────────────────╮
+╭─ who am i ──────────────────────────────────────────────────────────╮
 │                                                                    │
 │  🚀  Full Stack Developer focused on scalable real-world systems  │
 │  🏆  IQAC-selected product — currently in active development      │
